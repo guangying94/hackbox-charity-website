@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.ItemProperties.HackBoxCharity FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HackBoxCharity/HackBoxCharity.cs">
+    <Files>
+      <File FileName="HackBoxCharity/HackBoxCharity.cs" Line="15" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HackBoxCharity" expanded="True">
+            <Node name="HackBoxCharity" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
