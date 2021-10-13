@@ -10,5 +10,8 @@ This project aims to consolidate list of charity organizations that supports [Pa
 - [React](https://reactjs.org/) - Application Framework
 - [Tailwind CSS](https://tailwindcss.com/) - CSS Framework
 
+## Application Flow
+![Image](assets/architecture.png)
+
 ## Plan
 I welcome suggestion to add in new organization into this list! 
